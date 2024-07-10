@@ -1,0 +1,9 @@
+streamlit
+numpy==1.26.4
+scikit-surprise
+scikit-learn
+# requests
+# pandas
+
+# Local Packages
+-e .

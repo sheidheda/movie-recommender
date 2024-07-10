@@ -61,9 +61,9 @@ Alternatively, you can set it in a .env file and use a library like python-doten
 Open your web browser and go to http://localhost:8501 to access the movie recommender system.
 
 ## Usage
--**Select a Movie:** Choose a movie from the dropdown list.
--**Get Recommendations:** Click the "Show Recommendation" button to view top 5 recommended movies based on your selection.
--**View Details:** Movie titles and poster images will be displayed for the recommended movies.
+- **Select a Movie:** Choose a movie from the dropdown list.
+- **Get Recommendations:** Click the "Show Recommendation" button to view top 5 recommended movies based on your selection.
+- **View Details:** Movie titles and poster images will be displayed for the recommended movies.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, feature requests, or want to report issues, please open an issue or submit a pull request.
